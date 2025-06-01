@@ -13,9 +13,12 @@ public class Main5 {
 
 
         /*
-        * Nhập tên và tuôi sau đó xuất thông tin
-        * */
+         * Nhập tên và tuôi sau đó xuất thông tin
+         * */
 
+        /*
+        Ctrl + Alt + L: Format code
+         */
         System.out.print("Nhập vào tuổi của bạn: ");
         int age = Integer.parseInt(scanner.nextLine()); // 10 enter
 
